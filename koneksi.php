@@ -1,2 +1,2 @@
 <?php
-    echo "ini koneksi cuy ahh";
+    echo "ini koneksi cuy ahhhhhhhhh";
